@@ -23,13 +23,16 @@ By taking the analog signals from the joystick and mathematically combining them
 
 ## 📸 Pictures of the Project
 
-![Project Image 1](https://github.com/user-attachments/assets/LINK_CATRE_POZA_1)
+<img width="1536" height="2048" alt="WhatsApp Image 2026-05-29 at 19 43 16" src="https://github.com/user-attachments/assets/2d2e217a-1055-4a7d-8876-e3fc8e510970" />
 
-![Project Image 2](https://github.com/user-attachments/assets/LINK_CATRE_POZA_2)
+<img width="1536" height="2048" alt="WhatsApp Image 2026-05-29 at 19 43 16 (1)" src="https://github.com/user-attachments/assets/e6a36ec9-3145-4555-b80f-4e26399a2211" />
 
-![Project Image 3](https://github.com/user-attachments/assets/LINK_CATRE_POZA_3)
+<img width="1536" height="2048" alt="WhatsApp Image 2026-05-29 at 19 43 19" src="https://github.com/user-attachments/assets/42370ab0-68b2-4248-98cf-154951454277" />
+
 
 ## 🎥 Video Demonstration
 Want to see how it works? Check out the video below to see the joystick controlling the servo in real-time!
 
-[🎬 Watch video: Click here to see the project](https://github.com/user-attachments/assets/LINK_CATRE_VIDEOCLIPUL_TAU)
+https://github.com/user-attachments/assets/6f6603ba-081e-40e7-8069-56fd2206d780
+
+
